@@ -15,7 +15,7 @@ Aplikasi ini menampilkan informasi tentang karakter dan pertempuran dari periode
   Menampilkan pertempuran-pertempuran penting dari periode Tiga Kerajaan  
 
 - 📊 **Statistik Karakter**  
-  Visualisasi atribut karakter seperti *Strength* dan *Intelligence*  
+  Visualisasi atribut karakter seperti *Kekuatan* dan *Kecerdasan*  
 
 - ⏳ **Timeline Pertempuran**  
   Garis waktu pertempuran berdasarkan tahun  
